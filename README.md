@@ -1,6 +1,4 @@
 # TIL, Today I Learned
-> 2022-06-02-목요일
-
 - 하루동안 학습한 내용이나 관련 경험들을 기록으로 남깁니다.
 
 ## 작성 규칙
@@ -8,5 +6,7 @@
 - reference를 명시
 
 ## 분류
-- [2022-06-02] Github 특강 1/2 (Git, Github, 마크다운 언어) 
-- [2022-06-03] Github 특강 2/2 (clone, pull, .gitignore, branch, git workflow)
+- Daily Morning Test
+: 프로그래머스 코딩 스터디 답과 다른 사람 풀이를 참고하여 작성합니다.
+  - Level 0.
+  - Level 1.
