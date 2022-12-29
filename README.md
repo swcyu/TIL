@@ -8,5 +8,9 @@
 ## 분류
 - Daily Morning Test
 : 프로그래머스 코딩 스터디 답을 작성하고 다른 사람 풀이를 참고하여 공부합니다.
-  - Level 0.
-  - Level 1.
+  - Python
+    - Level 0.
+    - Level 1.
+  - MySQL
+    - Level 1.
+    - Level 2.
